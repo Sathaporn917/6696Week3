@@ -25,10 +25,10 @@
     664485025 นายสถาพร ทิพย์ไปรยา <br>
     หมู่เรียน 66/96 <br>
     
-    <form action="ex4.php"method="GET">
-    ชื่อ <input type="text" name="n">
-    นามสกุล <input type="text"surname="r">
-    <input type="submit"value="กรอกข้อมูล">
+    <form action="ex4.php">
+        ชื่อ <input type="text" name="n">
+        นามสกุล <input type="text" name="s">
+        <input type="submit" value="กดส่งข้อมูล">
     </form>
     
 

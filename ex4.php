@@ -26,9 +26,9 @@
     หมู่เรียน 66/96 <br>
     
     <?php
-        $name=$_GET["n"];
-        $surname=$_GET["r"];
-        echo"My name is".$name." ".$surname;
+        $name = $_GET["n"];
+        $surname = $_GET["s"];
+        echo "my name is ".$name." ".$surname;
     ?>
     
 
